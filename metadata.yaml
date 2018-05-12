@@ -30,6 +30,8 @@ creator:
     gutenberg_agent_id: '39719'
     url: http://www.gutenberg.org/2009/agents/39719
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39146#Reize-van-Maarten-Gerritsz.-Vries-in-1643-naar-het-Noorden-en-Oosten-van-Japanvolgens-het-jou_
 gutenberg_issued: '2012-03-14'
 gutenberg_type: Text
 identifiers:
