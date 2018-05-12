@@ -1,0 +1,51 @@
+_repo: Reize-van-Maarten-Gerritsz.-Vries-in-1643-naar-het-Noorden-en-Oosten-van-Japanvolgens-het-jou__39146
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39146-h/images/cover.png
+creator:
+  authors:
+  - agent_name: Vries, Maarten Gerritszoon
+    alias: Vries, Maerten Gerritszoon
+    gutenberg_agent_id: '43100'
+    url: http://www.gutenberg.org/2009/agents/43100
+  - agent_name: Siebold, Philipp Franz von
+    aliases:
+    - Siebold, G. T. de
+    - Siebold, P. F. von
+    - Von Siebold, Philipp Franz
+    birthdate: 1796
+    deathdate: 1866
+    gutenberg_agent_id: '39864'
+    url: http://www.gutenberg.org/2009/agents/39864
+  - agent_name: Coen, Cornelis Janszoon
+    alias: Coen, C. J. (Cornelis Janszoon)
+    gutenberg_agent_id: '39863'
+    url: http://www.gutenberg.org/2009/agents/39863
+  editor:
+    agent_name: Leupe, Pieter Arend
+    alias: Leupe, P. A. (Pieter Arend)
+    birthdate: 1808
+    deathdate: 1881
+    gutenberg_agent_id: '39719'
+    url: http://www.gutenberg.org/2009/agents/39719
+description: ''
+gutenberg_issued: '2012-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39146'
+  lccn: 05007180
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kuril Islands (Russia) -- Description and travel'
+- !lcsh 'Sakhalin (Sakhalinskaia oblast'', Russia)'
+- !lcsh 'Ainu'
+- !lcsh 'Japan -- Description and travel'
+- !lcc 'DS'
+title: 'Reize van Maarten Gerritsz. Vries in 1643 naar het Noorden en Oosten van Japan
+
+  volgens het journaal gehouden door C.J. Coen, op het schip Castricum'
+url: http://www.gutenberg.org/ebooks/39146
